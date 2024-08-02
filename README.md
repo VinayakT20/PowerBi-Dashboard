@@ -1,4 +1,4 @@
-**Amazon Sales Data Analysis Dashboard**
+# **Amazon Sales Data Analysis Dashboard**
 
 This project presents a comprehensive PowerBI dashboard analyzing Amazon sales data. Key features include:
 
